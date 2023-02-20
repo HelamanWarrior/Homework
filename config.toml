@@ -1,4 +1,4 @@
-baseURL = 'https://homework-plug-world.netlify.app/english-2015/'
+baseURL = 'https://homework-plug-world.netlify.app'
 
 theme = 'hugo-bearblog'
 
