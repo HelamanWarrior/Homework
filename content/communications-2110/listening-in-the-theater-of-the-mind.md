@@ -1,0 +1,28 @@
+---
+title: "Listening in the Theater of the Mind"
+date: 2022-11-01T12:27:08-07:00
+---
+
+**Listening in the Theater of the Mind**
+
+Listening is the key to evolution and progression. We and society both greatly benefit from the way we process and gather information. After listening to the "Three Skeleton Key," I discovered the significance of time in the delivery of a message. The effectiveness in which a message is received is significantly influenced by time.
+
+A common listening problem is "failure to focus on the message." This is when an individual becomes distracted and fails to understand the overall meaning of the message. In a world of information overload, this listening problem becomes very apparent. Our brains will often pick and choose what information to tune in and out of. I believe this to be my biggest listening problem. Especially in long conversations, my mind tends to wander and I subconsciously select something else that’s more interesting to ponder.
+
+This listening problem had a significant impact on me while listening to the radio drama "Three Skeleton Key." Whenever there would be a long description or conversation, my mind would often wander until I found something more interesting to think about. Time is the significant factor here. Similar minor quantities of information spread over a long period of time make it difficult to concentrate on the message. Whenever there was a large, significant event in the story, I was quickly able to make out the message. For example, when Louis got bit by a rat and began to bleed, this led to me refocusing on the story in which I was previously not paying attention to. Significant events and actions pull me back into it.
+
+The previous listening problem contrasts with comprehensive listening. Comprehensive listening is when you listen to understand and make meaning out of the message. A large amount of listening in our lives is made up of this type of listening. Watching the news, listening to a lecture, or getting directions from someone are all examples of comprehensive listening. You are actively listening and interpreting the message to construct meaning. This is why this type of listening is very significant. Without it, the world wouldn’t have progressed. Our messages will lack all meaning. Leaving the world in a static, unchanging state.
+
+While listening to the radio play, I greatly utilized this type of listening. I actively made an effort to piece together and decode the messages that were presented. At times, I would get sidetracked and fail to understand the meaning, but in the end, my goal was to understand the story. In the radio drama, the characters were trapped in a lighthouse and they were looking for solutions to get rid of the rats. The narrator talks about a potential solution involving fireworks, but then declines the solution because of their location. I was able to understand that the meaning of this was not just about the fireworks but about the pondering of solutions. They were stuck and looking for any potential solution to get them out. Often, comprehensive listening deals with many meanings that can be understood from the message.
+
+Listening is often difficult. It requires a great deal of concentration and focus. But in the end, listening is such a great aspect of communication. Remembering is such an integral part of becoming a better listener. Imagine that after a conversation, you forget all the details and information gained from that conversation. Every time you have a discussion with anyone, you will be starting at square one. No matter how many times you listen to them, you end up nowhere. Remembering is the key to progression. Conversations lose their priority and importance without it. Communication becomes largely inefficient and almost useless in the absence of remembrance. Remembering is a very significant step in becoming a better listener.
+
+Most run into difficulty when remembering a large amount of information. Usually, people only remember the beginning and end of a message. The middle of the message often gets blurred, and that’s when the greatest listening difficulty occurs. While I listened to the radio play, I was very aware of my listening issues. Every time my mind began to wander, I took note of it and increased my effort to listen. This greatly improved my ability to remember information. The middle of the radio drama was still a bit foggy, but I noticed a great increase in my comprehension and recollection of my thoughts. Without actively listening, I would have remembered far less information. Before I could remember enough to piece together the complete plot, I would have needed to listen to the radio play several times. But using this technique, I was able to remember enough after just one listen.
+
+In conclusion, listening is such a critical aspect of communication. Understanding how to listen more effectively benefits both you and society as a whole. After listening to the radio drama "Three Skeleton Key," I realized the importance and significance of time in a message. Messages that are stretched out over a long period of time with minimal amounts of information tend to be ignored. Being able to actively recognize when you are tuning yourself out of those messages greatly improves your ability to listen effectively.
+
+**References**
+
+Edwards, A. (2020). CUSTOM: Weber State University COMM 2110 Interpersonal and Small Group Communication Electronic Edition 2e (2nd ed.). SAGE Publications, Inc. (US). https://online.vitalsource.com/books/9781071833971
+
+Poe, James (Writer), Robson, William N. (Director & Producer). (1950, March 17). Three skeleton key [ Radio program episode]. In Norman MacDonnel (Executive Producer), Escape. CBS.
