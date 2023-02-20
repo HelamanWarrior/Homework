@@ -5,5 +5,4 @@ theme = 'hugo-bearblog'
 title = 'HomeWork ʕ•ᴥ•ʔ'
 languageCode = 'en-us'
 
-[params]
-  description =  "So this is where the homework gets done"
+enableRobotsTXT = true
