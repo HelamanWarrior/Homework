@@ -29,3 +29,7 @@ I really liked how Unit 1 at its core was about decision making. This is by far 
 
 **Journal 9:**
 My dream vacation would be going with my family to Oregon. I really like the trees there and I believe it would be fun to hang out in an AirBNB cabin and get some footage with the camera. Whenever we go on vacation I create a video of the vacation afterwards. I think it’s really fun to get the footage, and just enjoy living in the moment. 
+
+**Journal 10:**
+My hard work paid off when I took the risk to learn and teach a new game engine. Previously I was using Game Maker Studio which was being deprecated, and I had to find a new option. I planned on teaching game development in a club in junior high, so I needed to find a game engine that would be viable for teaching. Game Maker Studio 2 was coming out and it would’ve been the easier option. The only problem was that I would have to pay for the engine’s licenses which wouldn’t be viable for class. This led to me taking a risk and learning a new engine called Godot. After spending a large portion of my summer learning this new engine I began to work on my first course. I then published the course on YouTube in time for teaching the club. The club was a massive success. I had well over 20 people showing up each week. I taught them the basics of the engine using this course. This served as a springboard that allowed me to grow my YouTube channel teaching tens of thousands of people online. I am now working on a Udemy course and I’m excited to see what the future holds.
+

@@ -3,11 +3,11 @@ title: "Home"
 ---
 
 **TODO:**
-- Financial Lit
-	- [MPF Grade #4](https://wsd.instructure.com/courses/66266/assignments/4630232) (Friday)
 - English 2010 (Sunday)
-	- [Research Question Approval](https://weber.instructure.com/courses/564376/assignments/5748817)
 	- [Search Strategy](https://weber.instructure.com/courses/564376/assignments/5748818)
+- Financial Lit 
+	- [Career Research](https://wsd.instructure.com/courses/66266/assignments/4630198) (Sunday)
+	- [Broke, Busted, and Disgusted Film](https://wsd.instructure.com/courses/66266/assignments/4630197?module_item_id=8804792) (No due-date)
 
 Gotta love school
 

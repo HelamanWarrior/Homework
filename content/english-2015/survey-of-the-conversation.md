@@ -3,6 +3,8 @@ title: "Survey of the Conversation"
 date: 2023-02-19T18:31:23-07:00
 ---
 
+**Survey of the Conversation**
+
 Recent developments in artificial intelligence have taken the world by storm. Large language models, stable diffusion generative image technologies, and automatic speech recognition neural networks have led to a rise in AI tools and technologies. Many predict that the next generation of software and search engines will utilize these AI tools to further assist users.
 
 “The recent development of machine learning capabilities has resulted in an increased number of AI generated works and an understanding that humans are no longer the only source of creativity or innovation” (Hristov, 2016). The introduction of this new technology raises several concerns. OpenAI researchers claim that GPT-3, a large language model, “has the potential to advance both the beneficial and harmful applications of language models.” One of the most notable concerns addresses the application of copyright laws to computer-generated material. This new form of innovation has sparked a debate over the extent of copyright protection that should be given to artificial intelligent-generated works. As machines become capable of producing original content without human intervention, it becomes increasingly unclear whether traditional copyright laws are equipped to handle the complexities of this new form of technology. Palace states that “artificial intelligence will continue to become more and more sophisticated, increasingly blurring the line between human and computer authorship, until Congress or the federal courts are forced to act.”

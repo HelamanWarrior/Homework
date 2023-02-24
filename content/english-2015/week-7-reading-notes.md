@@ -29,5 +29,4 @@ date: 2023-02-22T11:42:36-07:00
 
 > I shouldn't get a C in this course. After all, I'm an A student.
 
-**The Either/Or Fallacy (or, False Dichotomy):
-
+**The Either/Or Fallacy (or, False Dichotomy):**
